@@ -32,7 +32,11 @@ button {
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
+    cursor: pointer;
+}
 
+button:hover {
+    transform: scale(1.1);
 }
 
 p {
@@ -44,5 +48,5 @@ p {
 i {
     font-size: 40px;
     color: #eb2f06; 
-    
+
 }    
